@@ -1,0 +1,195 @@
+body {
+  margin-top: 50px;
+}
+
+.container {
+  padding: 0;
+  margin: 0 auto;
+}
+
+.locator {
+  margin-bottom: 50px;
+}
+
+.city,
+.country {
+  display: inline;
+}
+
+.city {
+  font-family: nobel, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 1em;
+  padding-right: 5px;
+}
+
+.country {
+  font-family: nobel, sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 28px;
+  line-height: 1em;
+  text-transform: uppercase;
+}
+
+.locator-button {
+  background-color: aqua;
+  border-radius: 100px;
+  border-style: none;
+}
+
+.locator-button:hover {
+  background-color: orange;
+}
+
+.map-link {
+  font-family: nobel, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 15px;
+  line-height: 1em;
+  padding-left: 3px;
+}
+
+#date {
+  font-family: nobel, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 15px;
+  line-height: 1em;
+  margin-bottom: 10px;
+  padding-left: 3px;
+}
+
+.weather-current {
+  margin-bottom: 50px;
+  margin-left: 3px;
+  max-width: 600px;
+}
+
+.temperature-current {
+  font-family: nobel, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 1em;
+  margin-bottom: 10px;
+}
+
+.humidity-current,
+.unit-humid,
+.wind-current {
+  font-family: nobel, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 25px;
+  line-height: 1em;
+}
+
+.rain-current {
+  margin-bottom: 5px;
+}
+
+.weather-current-icon {
+  text-align: center;
+}
+
+.weather-forecast {
+  max-width: 600px;
+  margin-bottom: 50px;
+}
+.col {
+  text-align: center;
+}
+
+.forecast-day {
+  font-family: nobel, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.forecast-icon {
+  margin-bottom: 20px;
+}
+
+.forecast-temperature {
+  font-family: nobel, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.search {
+  margin-bottom: 50px;
+  max-width: 600px;
+}
+
+.search-box {
+  border: none;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.search-prompt {
+  font-family: nobel, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 15px;
+}
+
+.input-row {
+  margin-left: 24px;
+  margin-right: -12px;
+}
+
+.footer {
+  font-family: nobel, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 15px;
+  line-height: 1em;
+  text-align: center;
+  max-width: 600px;
+}
+
+.ext-link {
+  margin-top: 10px;
+}
+
+svg {
+  margin: 0px 0;
+}
+
+label {
+  margin-left: 24px;
+  padding-bottom: 10px;
+  font-family: nobel, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.unit-temp {
+  font-family: nobel, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1em;
+  margin-bottom: 10px;
+  vertical-align: 99%;
+}
