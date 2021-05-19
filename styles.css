@@ -158,7 +158,8 @@ body {
   max-width: 600px;
 }
 
-.ext-link {
+.ext-link,
+.git-link {
   margin-top: 10px;
 }
 
